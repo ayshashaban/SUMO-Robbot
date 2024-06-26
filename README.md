@@ -10,6 +10,7 @@ strategies.
 -  **Arduino UNO.**
 -  **Motor Driver L298n.**
 -  **2 DC Motors.**
+-  **Caster wheel.**
 -  **Power Supply.**
 -  **Connecting Wiers.**
 
