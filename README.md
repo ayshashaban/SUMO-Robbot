@@ -23,7 +23,7 @@ strategies.
 
 You can find the circuit used in the project [here](https://github.com/ayshashaban/SUMO-Robot/blob/main/circuit%20diagram%20SUMO.png)
 
-## code
+## Code
 
 You can find the code used in the project [here](https://github.com/ayshashaban/SUMO-Robot/blob/main/code.pm)
 
